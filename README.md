@@ -6,4 +6,4 @@ More over, each folder as a `README.md` file which explains the theme and propos
 
 Follows a short description of each tutorial:
 
-- [nodeJS-tutorials](./nodeJS-tutorials): This folder contain a group of folder which each one contains a nodeJS application, base on some tutorial
+- [nodeJS-tutorials](https://github.com/RicardoGomesRocha/nodeJS-tutorials/): This folder contain a group of folder which each one contains a nodeJS application, base on some tutorial

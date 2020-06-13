@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials 📖
 
 This repository contains a group of tutorials made during my learning process. Each folder contains a group of tutorials representing some theme such as a technology, framework or language.
 

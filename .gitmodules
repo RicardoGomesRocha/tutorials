@@ -1,3 +1,6 @@
 [submodule "nodeJS-tutorials"]
 	path = nodeJS-tutorials
 	url = https://github.com/RicardoGomesRocha/nodeJS-tutorials
+[submodule "nodeJS-tutorials"]
+	path = AlgoCasts
+	url = https://github.com/StephenGrider/AlgoCasts.git

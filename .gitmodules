@@ -1,7 +1,3 @@
-[submodule "nodeJS-tutorials"]
-	path = nodeJS-tutorials
-	url = https://github.com/RicardoGomesRocha/nodeJS-tutorials
-	branch = master
 [submodule "algo-casts-toturial"]
 	path = algo-casts-toturial
 	url = https://github.com/RicardoGomesRocha/algo-casts-toturial.git

@@ -5,3 +5,6 @@
 	path = nodeJS-tutorials
 	url = https://github.com/RicardoGomesRocha/nodeJS-tutorials
 	branch = master
+[submodule "algorithms-data-structures"]
+	path = algorithms-data-structures
+	url = https://github.com/RicardoGomesRocha/algorithms-data-structures.git
